@@ -233,7 +233,6 @@ header .header-content .header-content-inner p {
   color: white;
   opacity: 0;
   display: block;
-  background: rgba(240, 95, 64, 0.9);
   position: absolute;
   bottom: 0;
   text-align: center;
@@ -263,6 +262,21 @@ header .header-content .header-content-inner p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
   font-size: 18px;
 }
+
+.basement {
+    color: rgb(30,144,255);
+    font-weight: 700;
+}
+
+.space {
+    color: 	rgb(75,0,130);
+    font-weight: 700;
+}
+
+.parallel {
+    color: 	rgb(248, 0, 0);
+    font-weight: 700;
+}
 .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
@@ -274,7 +288,7 @@ header .header-content .header-content-inner p {
     font-size: 16px;
   }
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-    font-size: 22px;
+    font-size: 70px;
   }
 }
 .call-to-action h2 {
